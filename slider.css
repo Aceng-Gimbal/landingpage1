@@ -1,4 +1,4 @@
-.holderCircle { width: 500px; height: 500px; border-radius: 100%; margin: 60px auto; position: relative; }
+.holderCircle { width: 100%; height: 100%; border-radius: 100%; margin: 60px auto; position: relative; }
 
 
 .dotCircle { width: 100%; height: 100%; position: absolute; margin: auto; top: 0; left: 0; right: 0; bottom: 0; border-radius: 100%; z-index: 20; }
